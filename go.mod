@@ -1,3 +1,3 @@
-module github.com/djimenez/iconv-go
+module github.com/Zero-Fanker/iconv-go
 
 go 1.24.0
